@@ -1,9 +1,10 @@
 # Cahaya Sports
-**Kelompok 2:**
- - Christian Fernando (535220055)
- - Ryan Anthony (535220074)
- - Leonardez Flobert (535220097)
 
+**Kelompok 10:**
+
+-   Christian Fernando (535220055)
+-   Ryan Anthony (535220074)
+-   Leonardez Flobert (535220097)
 
 ## Instalasi
 
@@ -40,4 +41,11 @@
     npm run dev
     ```
 
-7. Akses website melalui `http://127.0.0.1:8000` atau `http://localhost:8000`
+7.  Akses website melalui `http://127.0.0.1:8000` atau `http://localhost:8000`
+
+## Instalasi
+
+```
+ admin : admin@example.com
+ pw : password
+```
