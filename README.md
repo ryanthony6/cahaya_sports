@@ -35,7 +35,7 @@
     php artisan db:seed
     ```
 
-    6.  Untuk konek storage gambar
+6.  Untuk konek storage gambar
 
     ```
     php artisan storage:link
@@ -50,7 +50,7 @@
 
 8.  Akses website melalui `http://127.0.0.1:8000` atau `http://localhost:8000`
 
-## Instalasi
+## Akun Admin
 
 ```
  admin : admin@example.com
